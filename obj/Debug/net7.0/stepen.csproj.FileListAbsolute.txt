@@ -1,0 +1,15 @@
+/home/sneg/Documents/stepen/bin/Debug/net7.0/stepen
+/home/sneg/Documents/stepen/bin/Debug/net7.0/stepen.deps.json
+/home/sneg/Documents/stepen/bin/Debug/net7.0/stepen.runtimeconfig.json
+/home/sneg/Documents/stepen/bin/Debug/net7.0/stepen.dll
+/home/sneg/Documents/stepen/bin/Debug/net7.0/stepen.pdb
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.csproj.AssemblyReference.cache
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.AssemblyInfoInputs.cache
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.AssemblyInfo.cs
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.dll
+/home/sneg/Documents/stepen/obj/Debug/net7.0/refint/stepen.dll
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.pdb
+/home/sneg/Documents/stepen/obj/Debug/net7.0/stepen.genruntimeconfig.cache
+/home/sneg/Documents/stepen/obj/Debug/net7.0/ref/stepen.dll
